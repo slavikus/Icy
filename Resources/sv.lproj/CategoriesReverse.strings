@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Administration</key>
+	<string>Administration</string>
+	<key>App-tillägg</key>
+	<string>Addons</string>
+	<key>Arkivering</key>
+	<string>Archiving</string>
+	<key>Bakgrunder</key>
+	<string>Wallpapers</string>
+	<key>Data-förvaring</key>
+	<string>DataStorage</string>
+	<key>För vuxna</key>
+	<string>Adult</string>
+	<key>Förbättringar</key>
+	<string>Tweaks</string>
+	<key>Förbättringar 2.0</key>
+	<string>Tweaks</string>
+	<key>Förbättringar 2.1</key>
+	<string>Tweaks</string>
+	<key>Förbättringar 2.2</key>
+	<string>Tweaks</string>
+	<key>Förpacka</key>
+	<string>Packaging</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Källor</key>
+	<string>Repositories</string>
+	<key>Leksaker</key>
+	<string>Toys</string>
+	<key>Meddelanden</key>
+	<string>Messages</string>
+	<key>Multimedia</key>
+	<string>Multimedia</string>
+	<key>Navigation</key>
+	<string>Navigation</string>
+	<key>Nyttigheter</key>
+	<string>Utilities</string>
+	<key>Nätverk</key>
+	<string>Networking</string>
+	<key>Operatörsbundles</key>
+	<string>CarrierBundle</string>
+	<key>Ordböcker</key>
+	<string>Dictionaries</string>
+	<key>Produktivitet</key>
+	<string>Productivity</string>
+	<key>Ringsignaler</key>
+	<string>Ringtones</string>
+	<key>Skriptande</key>
+	<string>Scripting</string>
+	<key>Spel</key>
+	<string>Games</string>
+	<key>Support för Terminal</key>
+	<string>TerminalSupport</string>
+	<key>System</key>
+	<string>System</string>
+	<key>Säkerhet</key>
+	<string>Security</string>
+	<key>Tangentbord</key>
+	<string>Keyboards</string>
+	<key>Teman</key>
+	<string>Teman</string>
+	<key>Teman (Apps)</key>
+	<string>Teman</string>
+	<key>Teman (Batteri)</key>
+	<string>Teman</string>
+	<key>Teman (Docka)</key>
+	<string>Teman</string>
+	<key>Teman (Icy)</key>
+	<string>Teman</string>
+	<key>Teman (Knappsats)</key>
+	<string>Teman</string>
+	<key>Teman (Kompletta)</key>
+	<string>Teman</string>
+	<key>Teman (Ljud)</key>
+	<string>Teman</string>
+	<key>Teman (Per sida)</key>
+	<string>Teman</string>
+	<key>Teman (Ringsignaler)</key>
+	<string>Teman</string>
+	<key>Teman (SBSettings)</key>
+	<string>Teman</string>
+	<key>Teman (SMS)</key>
+	<string>Teman</string>
+	<key>Teman (SpringBoard)</key>
+	<string>Teman</string>
+	<key>Teman (Startskärmen)</key>
+	<string>Teman</string>
+	<key>Teman (SummerBoard)</key>
+	<string>Teman</string>
+	<key>Teman (System)</key>
+	<string>Teman</string>
+	<key>Teman (Tangentbord)</key>
+	<string>Teman</string>
+	<key>Teman (Tillägg)</key>
+	<string>Teman</string>
+	<key>Teman (Video)</key>
+	<string>Teman</string>
+	<key>Teman (WinterBoard)</key>
+	<string>Teman</string>
+	<key>Textredigering</key>
+	<string>TextEditors</string>
+	<key>Underhållning</key>
+	<string>Entertainment</string>
+	<key>Utveckling</key>
+	<string>Development</string>
+	<key>WebApps</key>
+	<string>WebApps</string>
+	<key>WebClips</key>
+	<string>WebClips</string>
+	<key>Widgetar</key>
+	<string>Widgets</string>
+	<key>X-Fönster</key>
+	<string>XWindow</string>
+	<key>eBooks</key>
+	<string>eBooks</string>
+	<key>Översättning</key>
+	<string>Localization</string>
+</dict>
+</plist>

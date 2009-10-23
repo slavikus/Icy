@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Java</key>
+	<string>Java</string>
+	<key>WebApps</key>
+	<string>WebApps</string>
+	<key>WebClips</key>
+	<string>WebClips</string>
+	<key>Widgets</key>
+	<string>Widgets</string>
+	<key>X-Windows</key>
+	<string>XWindow</string>
+	<key>e-Βιβλία</key>
+	<string>eBooks</string>
+	<key>Ήχοι Κλήσης</key>
+	<string>Ringtones</string>
+	<key>Ανάπτυξη</key>
+	<string>Development</string>
+	<key>Αποθήκευση Δεδομένων</key>
+	<string>DataStorage</string>
+	<key>Αρχειοθέτηση</key>
+	<string>Archiving</string>
+	<key>Ασφάλεια</key>
+	<string>Security</string>
+	<key>Για Ενήλικες</key>
+	<string>Adult</string>
+	<key>Γλωσσικά Εργαλεία</key>
+	<string>Localization</string>
+	<key>Διασκέδαση</key>
+	<string>Entertainment</string>
+	<key>Διαχείριση</key>
+	<string>Administration</string>
+	<key>Δικτύωση</key>
+	<string>Networking</string>
+	<key>Επεξεργαστές Κειμένου</key>
+	<string>TextEditors</string>
+	<key>Εργαλεία</key>
+	<string>Utilities</string>
+	<key>Εργαλεία Πακέτων</key>
+	<string>Packaging</string>
+	<key>Θέματα</key>
+	<string>Themes</string>
+	<key>Θέματα (Dialer)</key>
+	<string>Themes</string>
+	<key>Θέματα (Dock)</key>
+	<string>Themes</string>
+	<key>Θέματα (Icy)</key>
+	<string>Themes</string>
+	<key>Θέματα (Lockscreen)</key>
+	<string>Themes</string>
+	<key>Θέματα (SBSettings)</key>
+	<string>Themes</string>
+	<key>Θέματα (SMS)</key>
+	<string>Themes</string>
+	<key>Θέματα (SpringBoard)</key>
+	<string>Themes</string>
+	<key>Θέματα (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Θέματα (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Θέματα (Ήχοι Κλήσης)</key>
+	<string>Themes</string>
+	<key>Θέματα (Ήχοι)</key>
+	<string>Themes</string>
+	<key>Θέματα (Ανά-Σελίδα)</key>
+	<string>Themes</string>
+	<key>Θέματα (Βίντεο)</key>
+	<string>Themes</string>
+	<key>Θέματα (Εφαρμογών)</key>
+	<string>Themes</string>
+	<key>Θέματα (Μπαταρίας)</key>
+	<string>Themes</string>
+	<key>Θέματα (Ολοκληρωμένα)</key>
+	<string>Themes</string>
+	<key>Θέματα (Πληκτρολόγιο)</key>
+	<string>Themes</string>
+	<key>Θέματα (Προσθήκες)</key>
+	<string>Themes</string>
+	<key>Θέματα (Σύστημα)</key>
+	<string>Themes</string>
+	<key>Κώδικας Τερματικού</key>
+	<string>Scripting</string>
+	<key>Λεξικά</key>
+	<string>Dictionaries</string>
+	<key>Λογότυπα Φορέων</key>
+	<string>CarrierBundle</string>
+	<key>Μηνύματα</key>
+	<string>Messages</string>
+	<key>Παιχνίδια</key>
+	<string>Games</string>
+	<key>Παραγωγικότητα</key>
+	<string>Productivity</string>
+	<key>Παραμετροποιήσεις</key>
+	<string>Tweaks</string>
+	<key>Παραμετροποιήσεις 2.0</key>
+	<string>Tweaks</string>
+	<key>Παραμετροποιήσεις 2.1</key>
+	<string>Tweaks</string>
+	<key>Παραμετροποιήσεις 2.2</key>
+	<string>Tweaks</string>
+	<key>Πηγές</key>
+	<string>Repositories</string>
+	<key>Πληκτρολόγια</key>
+	<string>Keyboards</string>
+	<key>Πλοήγηση</key>
+	<string>Navigation</string>
+	<key>Πολυμέσα</key>
+	<string>Multimedia</string>
+	<key>Πρόσθετα Εφαρμογών</key>
+	<string>Addons</string>
+	<key>Σύστημα</key>
+	<string>System</string>
+	<key>Υποστήριξη Τερματικού</key>
+	<string>TerminalSupport</string>
+	<key>Φόντα</key>
+	<string>Wallpapers</string>
+	<key>Φόντο</key>
+	<string>Wallpaper</string>
+</dict>
+</plist>

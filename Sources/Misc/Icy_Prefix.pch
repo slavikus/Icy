@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'Icy' target in the 'Icy' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define	kIcySupportDirectory		[@"~/Library/Icy" stringByExpandingTildeInPath]
+
+#define kIcyDatabasePath			[kIcySupportDirectory stringByAppendingPathComponent:@"Icy.sqlite3"]
+#define kIcyCachePath				[kIcySupportDirectory stringByAppendingPathComponent:@"Cache"]
+#define kIcyIndexesPath				[kIcySupportDirectory stringByAppendingPathComponent:@"Index"]
+
+#if defined (__i386__)
+	#define kIcyDPKGStatusDatabasePath			@"/Users/slava/Downloads/status"			// debug only
+	#define kIcyAPTReposPath					@"/Users/slava/Downloads/sources.list.d"
+#else
+	#define kIcyDPKGStatusDatabasePath			@"/var/lib/dpkg/status"
+	#define kIcyAPTReposPath					@"/private/etc/apt/sources.list.d"
+#endif

@@ -1,0 +1,17 @@
+This is Icy, a lightweight DPKG-based installer for the iPhone. It works
+on both 2.2.x and 3.x, although it may need some tuning for the latest
+firmware versions.
+
+You are free to clone, fork, or pick up and carry this on, if you'd like.
+
+Copyright (c) 2009, Ripdev:
+  - Slava "slavikus" Karpenko
+  - Cyril Murzin
+
+Special thanks to the following iPhone Dev Team members:
+  - Alexander "wizdaz" Maksimenko
+  - Ilya "gray" Popovyan
+
+Please refer to the license for the distribution terms.
+
+Peace.

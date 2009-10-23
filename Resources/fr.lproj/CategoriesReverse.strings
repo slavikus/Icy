@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Administration</key>
+	<string>Administration</string>
+	<key>Adulte</key>
+	<string>Adult</string>
+	<key>App Addons</key>
+	<string>Addons</string>
+	<key>Archivage</key>
+	<string>Archiving</string>
+	<key>Bundles Opérateurs</key>
+	<string>CarrierBundle</string>
+	<key>Claviers</key>
+	<string>Keyboards</string>
+	<key>Dictionnaires</key>
+	<string>Dictionaries</string>
+	<key>Développement</key>
+	<string>Development</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Jeux</key>
+	<string>Games</string>
+	<key>Livres électroniques</key>
+	<string>eBooks</string>
+	<key>Localisation</key>
+	<string>Localization</string>
+	<key>Loisirs</key>
+	<string>Entertainment</string>
+	<key>Messages Texte</key>
+	<string>Messages</string>
+	<key>Multimedia</key>
+	<string>Multimedia</string>
+	<key>Navigation</key>
+	<string>Navigation</string>
+	<key>Packaging</key>
+	<string>Packaging</string>
+	<key>Papier peint</key>
+	<string>Wallpaper</string>
+	<key>Papiers peints</key>
+	<string>Wallpapers</string>
+	<key>Productivité</key>
+	<string>Productivity</string>
+	<key>Réseaux</key>
+	<string>Networking</string>
+	<key>SMS, MMS &amp; Messageries</key>
+	<string>Messaging</string>
+	<key>Scriptage</key>
+	<string>Scripting</string>
+	<key>Sites-sources</key>
+	<string>Repositories</string>
+	<key>Sonneries</key>
+	<string>Ringtones</string>
+	<key>Stockage de données</key>
+	<string>DataStorage</string>
+	<key>Système</key>
+	<string>System</string>
+	<key>Sécrurité</key>
+	<string>Security</string>
+	<key>Terminal</key>
+	<string>TerminalSupport</string>
+	<key>Themes (Addition)</key>
+	<string>Themes</string>
+	<key>Thèmes</key>
+	<string>Themes</string>
+	<key>Thèmes (App)</key>
+	<string>Themes</string>
+	<key>Thèmes (Batterie)</key>
+	<string>Themes</string>
+	<key>Thèmes (Clavier téléphone)</key>
+	<string>Themes</string>
+	<key>Thèmes (Clavier)</key>
+	<string>Themes</string>
+	<key>Thèmes (Complet)</key>
+	<string>Themes</string>
+	<key>Thèmes (Dock)</key>
+	<string>Themes</string>
+	<key>Thèmes (Icy)</key>
+	<string>Themes</string>
+	<key>Thèmes (Per-Page)</key>
+	<string>Themes</string>
+	<key>Thèmes (SBSettings)</key>
+	<string>Themes</string>
+	<key>Thèmes (SMS)</key>
+	<string>Themes</string>
+	<key>Thèmes (Sonneries)</key>
+	<string>Themes</string>
+	<key>Thèmes (Sons)</key>
+	<string>Themes</string>
+	<key>Thèmes (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Thèmes (Système)</key>
+	<string>Themes</string>
+	<key>Thèmes (Vidéos)</key>
+	<string>Themes</string>
+	<key>Thèmes (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Thèmes (Écran d'accueil)</key>
+	<string>Themes</string>
+	<key>Thèmes (Écran de verrouillage)</key>
+	<string>Themes</string>
+	<key>Toys</key>
+	<string>Toys</string>
+	<key>Tweaks</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.0</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.1</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.2</key>
+	<string>Tweaks</string>
+	<key>Utilitaires</key>
+	<string>Utilities</string>
+	<key>WebApps</key>
+	<string>WebApps</string>
+	<key>WebClips</key>
+	<string>WebClips</string>
+	<key>Widgets</key>
+	<string>Widgets</string>
+	<key>X-Window</key>
+	<string>XWindow</string>
+	<key>Éditeurs de texte</key>
+	<string>TextEditors</string>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>CREATE TABLE sources (
+	url				TEXT COLLATE NOCASE,
+	pkgurl			TEXT COLLATE NOCASE,
+	lastupdate		REAL
+)</string>
+	<string>CREATE TABLE meta (
+	identifier		TEXT COLLATE NOCASE,
+	tag				TEXT,
+	data 			TEXT
+)</string>
+	<string>CREATE TABLE packages (
+	source			INTEGER,
+	identifier		TEXT COLLATE NOCASE,
+	category		TEXT COLLATE NOCASE,
+	name 			TEXT COLLATE NOCASE,
+	version			TEXT
+)</string>
+	<string>CREATE TRIGGER source_nuker DELETE ON sources
+BEGIN
+	DELETE FROM meta WHERE source = old.RowID;
+	DELETE FROM packages WHERE source = old.RowID;
+END
+</string>
+<string>PRAGMA default_cache_size = 1000;</string>
+<string>PRAGMA default_synchronous = OFF;</string>
+<string>CREATE TRIGGER meta_nuker DELETE ON packages
+BEGIN
+DELETE FROM meta WHERE identifier = old.identifier;
+END
+</string>
+<string>CREATE INDEX meta_id_idx ON meta ( identifier );</string>
+<string>CREATE INDEX pkg_id_idx ON packages ( identifier );</string>
+<string>DROP TRIGGER IF EXISTS source_nuker;</string>
+<string>CREATE TRIGGER source_nuker DELETE ON sources
+BEGIN
+	DELETE FROM packages WHERE source = old.RowID;
+END
+</string>
+<string>CREATE TABLE memories (identifier TEXT UNIQUE ON CONFLICT ABORT, package TEXT, version TEXT, name TEXT COLLATE NOCASE, created REAL);</string>
+<string>CREATE INDEX memories_created_idx ON memories ( created );</string>
+<string>PRAGMA default_cache_size = 1000;</string>
+<string>UPDATE sources SET lastupdate = NULL;</string>
+<string>CREATE TABLE excluded_categories (name TEXT COLLATE NOCASE UNIQUE ON CONFLICT ABORT)</string>
+<string>ALTER TABLE sources ADD COLUMN name TEXT COLLATE NOCASE</string>
+<string>ALTER TABLE sources ADD COLUMN ord INTEGER DEFAULT 0</string>
+<string>UPDATE sources SET ord = RowID</string>
+</array>
+</plist>

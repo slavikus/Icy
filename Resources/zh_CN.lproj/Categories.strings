@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Administration</key>
+	<string>系统管理</string>
+	<key>Adult</key>
+	<string>成人</string>
+	<key>App Addons</key>
+	<string>程序扩展</string>
+	<key>Archiving</key>
+	<string>存档管理</string>
+	<key>CarrierBundle</key>
+	<string>运营商</string>
+	<key>Data_Storage</key>
+	<string>数据存储</string>
+	<key>Development</key>
+	<string>开发工具</string>
+	<key>Dictionaries</key>
+	<string>辞典工具</string>
+	<key>Entertainment</key>
+	<string>休闲娱乐</string>
+	<key>Games</key>
+	<string>游戏</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Keyboards</key>
+	<string>键盘布局</string>
+	<key>Localization</key>
+	<string>本地化</string>
+	<key>Messages</key>
+	<string>通信交流</string>
+	<key>Messaging</key>
+	<string>通信交流</string>
+	<key>Multimedia</key>
+	<string>多媒体</string>
+	<key>Navigation</key>
+	<string>定位导航</string>
+	<key>Networking</key>
+	<string>网络应用</string>
+	<key>Packaging</key>
+	<string>打包工具</string>
+	<key>Productivity</key>
+	<string>创作工具</string>
+	<key>Repositories</key>
+	<string>软件源</string>
+	<key>Ringtones</key>
+	<string>铃声</string>
+	<key>Scripting</key>
+	<string>脚本工具</string>
+	<key>Security</key>
+	<string>系统安全</string>
+	<key>System</key>
+	<string>系统</string>
+	<key>Terminal_Support</key>
+	<string>终端支持</string>
+	<key>Text Editors</key>
+	<string>文本编辑</string>
+	<key>Text_Editors</key>
+	<string>文本编辑</string>
+	<key>Themes</key>
+	<string>主题</string>
+	<key>Themes (Addition)</key>
+	<string>主题：附加</string>
+	<key>Themes (App)</key>
+	<string>主题：程序</string>
+	<key>Themes (Apps)</key>
+	<string>主题：程序</string>
+	<key>Themes (Battery)</key>
+	<string>主题：电池</string>
+	<key>Themes (Complete)</key>
+	<string>主题：完整</string>
+	<key>Themes (Dialer)</key>
+	<string>主题：拨号</string>
+	<key>Themes (Dock)</key>
+	<string>主题：任务栏</string>
+	<key>Themes (Icy)</key>
+	<string>主题：Icy</string>
+	<key>Themes (Keyboard)</key>
+	<string>主题：键盘</string>
+	<key>Themes (Lockscreen)</key>
+	<string>主题：锁屏</string>
+	<key>Themes (Per-Page)</key>
+	<string>主题：每页</string>
+	<key>Themes (Ringtones)</key>
+	<string>主题：铃声</string>
+	<key>Themes (SBSettings)</key>
+	<string>主题：SBSettings</string>
+	<key>Themes (SMS)</key>
+	<string>主题：短信</string>
+	<key>Themes (Sounds)</key>
+	<string>主题：声音</string>
+	<key>Themes (SpringBoard)</key>
+	<string>主题：SpringBoard</string>
+	<key>Themes (SummerBoard)</key>
+	<string>主题：SummerBoard</string>
+	<key>Themes (System)</key>
+	<string>主题：系统</string>
+	<key>Themes (Videos)</key>
+	<string>主题：动态桌面</string>
+	<key>Themes (WinterBoard)</key>
+	<string>主题：WinterBoard</string>
+	<key>Toys</key>
+	<string>玩具</string>
+	<key>Tweaks</key>
+	<string>优化工具</string>
+	<key>Tweaks 2.0</key>
+	<string>优化工具 2.0</string>
+	<key>Tweaks 2.1</key>
+	<string>优化工具 2.1</string>
+	<key>Tweaks 2.2</key>
+	<string>优化工具 2.2</string>
+	<key>Utilities</key>
+	<string>实用工具</string>
+	<key>Wallpaper</key>
+	<string>壁纸</string>
+	<key>Wallpapers</key>
+	<string>壁纸</string>
+	<key>WebApps</key>
+	<string>网页程序</string>
+	<key>WebClips</key>
+	<string>网络剪辑</string>
+	<key>Widgets</key>
+	<string>小饰物</string>
+	<key>X_Window</key>
+	<string>X-Windows</string>
+	<key>eBooks</key>
+	<string>电子书</string>
+</dict>
+</plist>

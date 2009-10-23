@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WebClips</key>
+	<string>WebClips</string>
+	<key>X-Windows</key>
+	<string>XWindow</string>
+	<key>אבטחה</key>
+	<string>Security</string>
+	<key>איחסון מידע</key>
+	<string>DataStorage</string>
+	<key>אפליקציות רשת</key>
+	<string>WebApps</string>
+	<key>בידור</key>
+	<string>Entertainment</string>
+	<key>ג'אווה</key>
+	<string>Java</string>
+	<key>הודעות</key>
+	<string>Messages</string>
+	<key>התאמה מקומית</key>
+	<string>Localization</string>
+	<key>התאמות</key>
+	<string>Tweaks</string>
+	<key>התאמות 2.0</key>
+	<string>Tweaks</string>
+	<key>התאמות 2.1</key>
+	<string>Tweaks</string>
+	<key>התאמות 2.2</key>
+	<string>Tweaks</string>
+	<key>וויג'דטים</key>
+	<string>Widgets</string>
+	<key>חבילות ספקים</key>
+	<string>CarrierBundle</string>
+	<key>טפטים</key>
+	<string>Wallpapers</string>
+	<key>יעול זמן</key>
+	<string>Productivity</string>
+	<key>יצירת חבילות</key>
+	<string>Packaging</string>
+	<key>כלים שימושיים</key>
+	<string>Utilities</string>
+	<key>מבוגרים</key>
+	<string>Adult</string>
+	<key>מולטימדיה</key>
+	<string>Multimedia</string>
+	<key>מחסני התקנות</key>
+	<string>Repositories</string>
+	<key>מילונים</key>
+	<string>Dictionaries</string>
+	<key>מערכת</key>
+	<string>System</string>
+	<key>מקלדות</key>
+	<string>Keyboards</string>
+	<key>משחקים</key>
+	<string>Games</string>
+	<key>ניהולי</key>
+	<string>Administration</string>
+	<key>ניווט</key>
+	<string>Navigation</string>
+	<key>ספרים אלקטרונים</key>
+	<string>eBooks</string>
+	<key>סקריפטים</key>
+	<string>Scripting</string>
+	<key>עורכי טקסט</key>
+	<string>TextEditors</string>
+	<key>ערכות נושא</key>
+	<string>Themes</string>
+	<key>ערכות נושא (Icy)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (SBSettings)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (SMS)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (SpringBoard)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (SummerBoard)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (WinterBoard)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (אפליקציות)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (בטריה)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (דוק)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (וידאו)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (חייגן)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (לפי עמוד)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (מסך נעילה)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (מערכת)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (מקלדת)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (צלילים)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (רינגטונים)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (שלם)</key>
+	<string>Themes</string>
+	<key>ערכות נושא (תוספת)</key>
+	<string>Themes</string>
+	<key>ערכות נושא אפליקציות</key>
+	<string>Themes</string>
+	<key>פיתוח</key>
+	<string>Development</string>
+	<key>צעצועים</key>
+	<string>Toys</string>
+	<key>רינגטונים</key>
+	<string>Ringtones</string>
+	<key>רשתות</key>
+	<string>Networking</string>
+	<key>שימור ארכיון</key>
+	<string>Archiving</string>
+	<key>תוספי אפליקציות</key>
+	<string>Addons</string>
+	<key>תמיכת טרמינל</key>
+	<string>TerminalSupport</string>
+</dict>
+</plist>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Web-закладки</key>
+	<string>WebClips</string>
+	<key>Web-программы</key>
+	<string>WebApps</string>
+	<key>X-Windows</key>
+	<string>XWindow</string>
+	<key>Администрирование</key>
+	<string>Administration</string>
+	<key>Архивирование</key>
+	<string>Archiving</string>
+	<key>Безопасность</key>
+	<string>Security</string>
+	<key>Виджеты</key>
+	<string>Widgets</string>
+	<key>Для взрослых</key>
+	<string>Adult</string>
+	<key>Дополнения программ</key>
+	<string>Addons</string>
+	<key>Игрушки</key>
+	<string>Toys</string>
+	<key>Игры</key>
+	<string>Games</string>
+	<key>Исправления</key>
+	<string>Tweaks</string>
+	<key>Исправления 2.0</key>
+	<string>Tweaks</string>
+	<key>Исправления 2.1</key>
+	<string>Tweaks</string>
+	<key>Исправления 2.2</key>
+	<string>Tweaks</string>
+	<key>Клавиатуры</key>
+	<string>Keyboards</string>
+	<key>Локализация</key>
+	<string>Localization</string>
+	<key>Мультимедия</key>
+	<string>Multimedia</string>
+	<key>Навигация</key>
+	<string>Navigation</string>
+	<key>Обои</key>
+	<string>Wallpapers</string>
+	<key>Пакеты</key>
+	<string>Packaging</string>
+	<key>Пакеты операторов</key>
+	<string>CarrierBundle</string>
+	<key>Продуктивность</key>
+	<string>Productivity</string>
+	<key>Развлечения</key>
+	<string>Entertainment</string>
+	<key>Разработка</key>
+	<string>Development</string>
+	<key>Репозитории</key>
+	<string>Repositories</string>
+	<key>Рингтоны</key>
+	<string>Ringtones</string>
+	<key>Сеть</key>
+	<string>Networking</string>
+	<key>Система</key>
+	<string>System</string>
+	<key>Скрипты</key>
+	<string>Scripting</string>
+	<key>Словари</key>
+	<string>Dictionaries</string>
+	<key>Сообщения</key>
+	<string>Messages</string>
+	<key>Текстовые редакторы</key>
+	<string>TextEditors</string>
+	<key>Темы</key>
+	<string>Themes</string>
+	<key>Темы (Dock)</key>
+	<string>Themes</string>
+	<key>Темы (Icy)</key>
+	<string>Themes</string>
+	<key>Темы (SBSettings)</key>
+	<string>Themes</string>
+	<key>Темы (SpringBoard)</key>
+	<string>Themes</string>
+	<key>Темы (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Темы (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Темы (Звуки)</key>
+	<string>Themes</string>
+	<key>Темы (Рингтоны)</key>
+	<string>Themes</string>
+	<key>Темы (СМС)</key>
+	<string>Themes</string>
+	<key>Темы (батарейки)</key>
+	<string>Themes</string>
+	<key>Темы (видео)</key>
+	<string>Themes</string>
+	<key>Темы (дополнительные)</key>
+	<string>Themes</string>
+	<key>Темы (забл. экран)</key>
+	<string>Themes</string>
+	<key>Темы (клавиатуры)</key>
+	<string>Themes</string>
+	<key>Темы (номеронабиратель)</key>
+	<string>Themes</string>
+	<key>Темы (полные)</key>
+	<string>Themes</string>
+	<key>Темы (программы)</key>
+	<string>Themes</string>
+	<key>Темы (системные)</key>
+	<string>Themes</string>
+	<key>Темы (стр.)</key>
+	<string>Themes</string>
+	<key>Терминал</key>
+	<string>TerminalSupport</string>
+	<key>Утилиты</key>
+	<string>Utilities</string>
+	<key>Хранение данных</key>
+	<string>DataStorage</string>
+	<key>Электронные книги</key>
+	<string>eBooks</string>
+</dict>
+</plist>

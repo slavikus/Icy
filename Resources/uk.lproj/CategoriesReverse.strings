@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Web-закладки</key>
+	<string>WebClips</string>
+	<key>Web-програми</key>
+	<string>WebApps</string>
+	<key>X-Windows</key>
+	<string>XWindow</string>
+	<key>Іграшки</key>
+	<string>Toys</string>
+	<key>Ігри</key>
+	<string>Games</string>
+	<key>Адміністрування</key>
+	<string>Administration</string>
+	<key>Архівування</key>
+	<string>Archiving</string>
+	<key>Безпека</key>
+	<string>Security</string>
+	<key>Виправлення</key>
+	<string>Tweaks</string>
+	<key>Виправлення 2.0</key>
+	<string>Tweaks</string>
+	<key>Виправлення 2.1</key>
+	<string>Tweaks</string>
+	<key>Виправлення 2.2</key>
+	<string>Tweaks</string>
+	<key>Віджети</key>
+	<string>Widgets</string>
+	<key>Для дорослих</key>
+	<string>Adult</string>
+	<key>Доповнення програм</key>
+	<string>Addons</string>
+	<key>Електронні книги</key>
+	<string>eBooks</string>
+	<key>Зберігання даних</key>
+	<string>DataStorage</string>
+	<key>Клавіатури</key>
+	<string>Keyboards</string>
+	<key>Локалізація</key>
+	<string>Localization</string>
+	<key>Мережа</key>
+	<string>Networking</string>
+	<key>Мультимедія</key>
+	<string>Multimedia</string>
+	<key>Навігація</key>
+	<string>Navigation</string>
+	<key>Пакети</key>
+	<string>Packaging</string>
+	<key>Пакети операторів</key>
+	<string>CarrierBundle</string>
+	<key>Повідомлення</key>
+	<string>Messages</string>
+	<key>Продуктивність</key>
+	<string>Productivity</string>
+	<key>Репозиторії</key>
+	<string>Repositories</string>
+	<key>Розваги</key>
+	<string>Entertainment</string>
+	<key>Розробка</key>
+	<string>Development</string>
+	<key>Рінгтони</key>
+	<string>Ringtones</string>
+	<key>Система</key>
+	<string>System</string>
+	<key>Словники</key>
+	<string>Dictionaries</string>
+	<key>Сценарії</key>
+	<string>Scripting</string>
+	<key>Текстові редактори</key>
+	<string>TextEditors</string>
+	<key>Теми</key>
+	<string>Themes</string>
+	<key>Теми (Dock)</key>
+	<string>Themes</string>
+	<key>Теми (Icy)</key>
+	<string>Themes</string>
+	<key>Теми (SBSettings)</key>
+	<string>Themes</string>
+	<key>Теми (SpringBoard)</key>
+	<string>Themes</string>
+	<key>Теми (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Теми (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Теми (Звуки)</key>
+	<string>Themes</string>
+	<key>Теми (Рінгтони)</key>
+	<string>Themes</string>
+	<key>Теми (СМС)</key>
+	<string>Themes</string>
+	<key>Теми (батарейки)</key>
+	<string>Themes</string>
+	<key>Теми (відео)</key>
+	<string>Themes</string>
+	<key>Теми (додаткові)</key>
+	<string>Themes</string>
+	<key>Теми (забл. екран)</key>
+	<string>Themes</string>
+	<key>Теми (клавіатури)</key>
+	<string>Themes</string>
+	<key>Теми (номеронабирачка)</key>
+	<string>Themes</string>
+	<key>Теми (повні)</key>
+	<string>Themes</string>
+	<key>Теми (програми)</key>
+	<string>Themes</string>
+	<key>Теми (системні)</key>
+	<string>Themes</string>
+	<key>Теми (стор.)</key>
+	<string>Themes</string>
+	<key>Термінал</key>
+	<string>TerminalSupport</string>
+	<key>Утиліти</key>
+	<string>Utilities</string>
+	<key>Шпалери</key>
+	<string>Wallpapers</string>
+</dict>
+</plist>

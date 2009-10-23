@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Administracija</key>
+	<string>Administration</string>
+	<key>Arhiviranje</key>
+	<string>Archiving</string>
+	<key>Dodaci aplikacijama</key>
+	<string>Addons</string>
+	<key>Dodaci provajderima</key>
+	<string>CarrierBundle</string>
+	<key>Editori teksta</key>
+	<string>TextEditors</string>
+	<key>Elektronske knjige</key>
+	<string>eBooks</string>
+	<key>Fina podešavanja</key>
+	<string>Tweaks</string>
+	<key>Fina podešavanja 2.0</key>
+	<string>Tweaks</string>
+	<key>Fina podešavanja 2.1</key>
+	<string>Tweaks</string>
+	<key>Fina podešavanja 2.2</key>
+	<string>Tweaks</string>
+	<key>Igre</key>
+	<string>Games</string>
+	<key>Internet aplikacije</key>
+	<string>WebApps</string>
+	<key>Internet klipovi</key>
+	<string>WebClips</string>
+	<key>Izvori</key>
+	<string>Repositories</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Lokalizacije</key>
+	<string>Localization</string>
+	<key>Manje aplikacije</key>
+	<string>Widgets</string>
+	<key>Melodije zvona</key>
+	<string>Ringtones</string>
+	<key>Mreža</key>
+	<string>Networking</string>
+	<key>Multimedija</key>
+	<string>Multimedia</string>
+	<key>Navigacija</key>
+	<string>Navigation</string>
+	<key>Pakovanje</key>
+	<string>Packaging</string>
+	<key>Podrška za terminal</key>
+	<string>TerminalSupport</string>
+	<key>Pomoćne aplikacije</key>
+	<string>Utilities</string>
+	<key>Poruke</key>
+	<string>Messages</string>
+	<key>Pozadine</key>
+	<string>Wallpapers</string>
+	<key>Produktivnost</key>
+	<string>Productivity</string>
+	<key>Razvoj</key>
+	<string>Development</string>
+	<key>Rečnici</key>
+	<string>Dictionaries</string>
+	<key>Sigurnost</key>
+	<string>Security</string>
+	<key>Sistem</key>
+	<string>System</string>
+	<key>Skladištenje podataka</key>
+	<string>DataStorage</string>
+	<key>Skripte</key>
+	<string>Scripting</string>
+	<key>Tastature</key>
+	<string>Keyboards</string>
+	<key>Teme</key>
+	<string>Themes</string>
+	<key>Teme (Aplikacije)</key>
+	<string>Themes</string>
+	<key>Teme (Baterija)</key>
+	<string>Themes</string>
+	<key>Teme (Birač)</key>
+	<string>Themes</string>
+	<key>Teme (Dodatne)</key>
+	<string>Themes</string>
+	<key>Teme (Dok)</key>
+	<string>Themes</string>
+	<key>Teme (Icy)</key>
+	<string>Themes</string>
+	<key>Teme (Kompletne)</key>
+	<string>Themes</string>
+	<key>Teme (Melodije zvona)</key>
+	<string>Themes</string>
+	<key>Teme (Po stranici)</key>
+	<string>Themes</string>
+	<key>Teme (SBSettings)</key>
+	<string>Themes</string>
+	<key>Teme (SMS)</key>
+	<string>Themes</string>
+	<key>Teme (Sistem)</key>
+	<string>Themes</string>
+	<key>Teme (SpringBoard)</key>
+	<string>Themes</string>
+	<key>Teme (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Teme (Tastatura)</key>
+	<string>Themes</string>
+	<key>Teme (Video)</key>
+	<string>Themes</string>
+	<key>Teme (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Teme (Zaključani ekran)</key>
+	<string>Themes</string>
+	<key>Teme (Zvukovi)</key>
+	<string>Themes</string>
+	<key>X-Windows</key>
+	<string>XWindow</string>
+	<key>Za odrasle</key>
+	<string>Adult</string>
+	<key>Zabava</key>
+	<string>Entertainment</string>
+	<key>Zezalice</key>
+	<string>Toys</string>
+</dict>
+</plist>

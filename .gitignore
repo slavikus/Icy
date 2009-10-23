@@ -1,0 +1,4 @@
+build
+*.pbxuser
+*.mode*
+.DS_Store

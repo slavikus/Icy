@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Achtergrond</key>
+	<string>Wallpaper</string>
+	<key>Achtergronden</key>
+	<string>Wallpapers</string>
+	<key>App Addons</key>
+	<string>Addons</string>
+	<key>Archivering</key>
+	<string>Archiving</string>
+	<key>Behering</key>
+	<string>Administration</string>
+	<key>Beltonen</key>
+	<string>Ringtones</string>
+	<key>Berichten</key>
+	<string>Messages</string>
+	<key>Beveiliging</key>
+	<string>Security</string>
+	<key>Bronnen</key>
+	<string>Repositories</string>
+	<key>Games</key>
+	<string>Games</string>
+	<key>Gegevens opslag</key>
+	<string>DataStorage</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Localisatie</key>
+	<string>Localization</string>
+	<key>Multimedia</key>
+	<string>Multimedia</string>
+	<key>Navigatie</key>
+	<string>Navigation</string>
+	<key>Netwerk</key>
+	<string>Networking</string>
+	<key>Nuttig</key>
+	<string>Utilities</string>
+	<key>Ontwikkeling</key>
+	<string>Development</string>
+	<key>Productiviteit</key>
+	<string>Productivity</string>
+	<key>Provider Bundels</key>
+	<string>CarrierBundle</string>
+	<key>Scripting</key>
+	<string>Scripting</string>
+	<key>Speelgoed</key>
+	<string>Toys</string>
+	<key>Systeem</key>
+	<string>System</string>
+	<key>Tekst bewerkers</key>
+	<string>TextEditors</string>
+	<key>Terminal ondersteuning</key>
+	<string>TerminalSupport</string>
+	<key>Thema's</key>
+	<string>Themes</string>
+	<key>Thema's (Apps)</key>
+	<string>Themes</string>
+	<key>Thema's (Batterij)</key>
+	<string>Themes</string>
+	<key>Thema's (Compleet)</key>
+	<string>Themes</string>
+	<key>Thema's (Dialer)</key>
+	<string>Themes</string>
+	<key>Thema's (Dock)</key>
+	<string>Themes</string>
+	<key>Thema's (Icy)</key>
+	<string>Themes</string>
+	<key>Thema's (Lock scherm)</key>
+	<string>Themes</string>
+	<key>Thema's (Per-Page)</key>
+	<string>Themes</string>
+	<key>Thema's (SBSettings)</key>
+	<string>Themes</string>
+	<key>Thema's (SMS)</key>
+	<string>Themes</string>
+	<key>Thema's (SpringBoard)</key>
+	<string>Themes</string>
+	<key>Thema's (SummerBoard)</key>
+	<string>Themes</string>
+	<key>Thema's (Systeem)</key>
+	<string>Themes</string>
+	<key>Thema's (Toevoeging)</key>
+	<string>Themes</string>
+	<key>Thema's (Video's)</key>
+	<string>Themes</string>
+	<key>Thema's (WinterBoard)</key>
+	<string>Themes</string>
+	<key>Thema's (beltonen)</key>
+	<string>Themes</string>
+	<key>Thema's (geluiden)</key>
+	<string>Themes</string>
+	<key>Thema's (toetsenbord)</key>
+	<string>Themes</string>
+	<key>Toetsenborden</key>
+	<string>Keyboards</string>
+	<key>Tweaks</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.0</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.1</key>
+	<string>Tweaks</string>
+	<key>Tweaks 2.2</key>
+	<string>Tweaks</string>
+	<key>Vermaak</key>
+	<string>Entertainment</string>
+	<key>Verpakking</key>
+	<string>Packaging</string>
+	<key>Volwassen</key>
+	<string>Adult</string>
+	<key>Web Apps</key>
+	<string>WebApps</string>
+	<key>Web Clips</key>
+	<string>WebClips</string>
+	<key>Widgets</key>
+	<string>Widgets</string>
+	<key>Woordenboeken</key>
+	<string>Dictionaries</string>
+	<key>X-Venster</key>
+	<string>XWindow</string>
+	<key>eBooks</key>
+	<string>eBooks</string>
+	<key>verzending</key>
+	<string>Messaging</string>
+</dict>
+</plist>
